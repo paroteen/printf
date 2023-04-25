@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * get_precision - function
- * @format: Formatted.
- * @i - arguments to be printed.
- * @list: lists all arguments.
+ * get_precision - function`
+ * @format: Formatted string
+ * @i: List of arguments.
+ * @list: list all arguments.
+ *
  * Return: Precision.
  */
 int get_precision(const char *format, int *i, va_list list)
