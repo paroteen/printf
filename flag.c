@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_flags - function to be printed. 
+ * get_flags - function to be printed.
  * @format: format
  * @i: take a parameter.
  * Return: returns Flags:
