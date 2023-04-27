@@ -2,7 +2,7 @@
 
 int get_size(const char *format, int *i)
 {
-	int me= *i + 1;
+	int me = *i + 1;
 	int size = 0;
 
 	if (format[me] == 'l')
